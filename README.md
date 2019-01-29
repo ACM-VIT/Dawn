@@ -1,6 +1,8 @@
 # Dawn
 Starter pack for Machine Learning and related fields, an initiative by the members of ACM-VIT student chapter. The repo contains learning concepts and insights on ML and AI
 
+## ML/DL
+This folder contains a list of starter projects for ML/DL. More projects and their implementations will be added im the future. 
 ## Github Cheat Sheet:
 This file contains the starter pack for using Git and Github
 
