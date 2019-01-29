@@ -2,13 +2,13 @@
 Starter pack for Machine Learning and related fields, an initiative by the members of ACM-VIT student chapter. The repo contains learning concepts and insights on ML and AI
 
 ## Image Processing|Augmented Reality
-This folder contains a document of starter projects for IP|AR. More projects and their implementations will be added in the future. Get started by clicking [here](./ImageProcessing_AugmentedReality)
+This folder contains a document of starter projects for IP|AR. More projects and their implementations will be added in the future. Get started by clicking [here](./ImageProcessing_AugmentedReality).
 
 ## ML/DL
-This folder contains a list of starter projects for ML/DL. More projects and their implementations will be added in the future. Get started by clicking [here](./ML_DL)
+This folder contains a list of starter projects for ML/DL. More projects and their implementations will be added in the future. Get started by clicking [here](./ML_DL).
 
 ## Scraping and Automation
-This folder contains a list of starter projects for Scraping/Automation. More projects and their implementations will be added in the future. Get started by clicking [here](./Scraping and Automation)
+This folder contains a list of starter projects for Scraping/Automation. More projects and their implementations will be added in the future.
 
 ## Github Cheat Sheet:
 This file contains the starter pack for using Git and Github.
