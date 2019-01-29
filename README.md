@@ -3,6 +3,8 @@ Starter pack for Machine Learning and related fields, an initiative by the membe
 
 ## ML/DL
 This folder contains a list of starter projects for ML/DL. More projects and their implementations will be added im the future. 
+## Scraping and Automation
+This folder contains a list of starter projects for Scraping/Automation. More projects and their implementations will be added in the future.
 ## Github Cheat Sheet:
 This file contains the starter pack for using Git and Github
 
