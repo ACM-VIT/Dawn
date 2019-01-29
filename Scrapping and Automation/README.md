@@ -12,4 +12,4 @@ Here is the list of introductory tasks for juniors to get started with
 * Create a share market stock value predictor using `pandas`, `numpy` and `skilearn`
 * Given a time sharing data: Analyse it, Clean it, Process it and then Visualize it
 * Preprocessing
-* Collection Modules like `os` , `cv2`
+* Modules like `os` , `cv2`, 'collections'
