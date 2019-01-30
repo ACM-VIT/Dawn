@@ -9,4 +9,11 @@ If anyone has more projects add it to this list.
 4) Find out if there is any way to visualize huge datasets (You can use the Iris one if you want)
 5) Check out image thresholding and see if you can isolate a color from an image.
 
+[Here is numpy cheat sheet](https://ipgp.github.io/scientific_python_cheat_sheet/#numpy-import-numpy-as-np)
 
+## Helpful Repositories
+
+* [Machine Learning](https://github.com/nishnash54/machine_learning)
+* [Numpy](https://github.com/mingrammer/cs231n-numpy-tutorial)
+* [Tensor Flow](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+* [Pandas](https://github.com/jvns/pandas-cookbook)
