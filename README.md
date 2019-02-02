@@ -1,6 +1,9 @@
 # Dawn
 Starter pack for Machine Learning and related fields, an initiative by the members of ACM-VIT student chapter. The repo contains learning concepts and insights on ML and AI
 
+# Artificial Intelligence
+This folder contains introductory notes and resources for people wanting to begin with learning AI. If you're not sure which specific domain to choose, <b>< ahref="Artificial Intelligence">start here</a></b>.
+
 ## Image Processing|Augmented Reality
 This folder contains a document of starter projects for IP|AR. More projects and their implementations will be added in the future. Get started by clicking [here](./ImageProcessing_AugmentedReality).
 
