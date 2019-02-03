@@ -35,6 +35,8 @@ It should be noted that another way of fetching results through machine learning
 For example, imagine you had to determine whether a fruit is rotten or fresh. Here, <b>rotten</b> and <b>fresh</b> are the classes. By analysing the paramters such as appearance, odour, texture, etc., you put it in the class with the most number of properties matching with that of the fruit.
 <br/><br/>  
 
+Beginners can start this [COURSE](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) offered by Udacity for free
+
 # Deep Learning
 Deep learning, like Machine Learning, is also a method where the program is made to learn from historical data. The difference is that, unlike ML, DL is an <b>unsupervised learning</b> technique. This means that the dataset is <b>IS NOT LABELLED</b>. Your mind could be fu..uh..blown by this, as you must be wondering what use could a dataset without labels have.<br/><br/>
 What happens in Deep Learning is that the program tries to look for all sorts of patterns that the data can be fitted into. To put it more simply, it simply creates <b>groups</b> among the data based on common attributes. <b>Example:</b> suppose you had 1000 crayons. You can "group" the crayons in a number of ways:  
@@ -53,6 +55,7 @@ etc. Deep learning does something similar. This method of grouping by common att
 # Reinforcement Learning
 This is another technique of making the computer learn, but not exactly from data. In this approach, the machine is given the capabilities to perform some fundamental actions, and a defined goal that it has to achieve. Now the machine tries out several permutations of its fundamental capabilities. If a certain permutation leads to the achievement of the goal, the machine is <b>rewarded points</b>, and it <b>learns</b> one of the ways to achieve the task. Whenever the machine fails to get to its goal, <b>points are deducted</b> so as to make it understand that the method did not work out.<br><br/>
 A great example would be the AI used in games which learns to defeat the user. Deep learning and reinforcement learning have been used in combination to make computers learn to play games like Chess, Space Invaders, Jeopardy, etc.<br/><br/>  
+Read [this paper](http://cs229.stanford.edu/notes/cs229-notes12.pdf) to have a deeper understanding how RL works. You can also checkout this [repository](https://github.com/ACM-VIT/awesome-Artificial-Intelligence/blob/master/Reinforcement%20Learning/Reinforcement%20Learning.ipynb)
 <br/>  
 
 # Artificial Neural Networks
