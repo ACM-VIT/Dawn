@@ -5,6 +5,9 @@
   
   <li> <b>LOGISTIC REGRESSION</b><br/>This is a very basic data prediction algorithm. Based on previous data, an equation is obtained (multivariate linear regression) and ultimately fitted into a <a href="https://en.wikipedia.org/wiki/Sigmoid_function">sigmoid curve</a> to get a <b>binary answer</b> (i.e., true/false, yes/no). <a href="https://www.youtube.com/watch?v=yIYKR4sgzI8">Watch on YouTube</a>.</li><br/>
   
-  <li> <b>RANDOM FOREST</b><br/>This is a commonly used <b>clustering algorithm</b> that works well even when the dataset is substantially small. <a href="https://www.youtube.com/watch?v=eM4uJ6XGnSM">Watch on YouTube</a>.</li>
+  <li> <b>RANDOM FOREST</b><br/>This is a commonly used <b>clustering algorithm</b> that works well even when the dataset is substantially small. <a href="https://www.youtube.com/watch?v=eM4uJ6XGnSM">Watch on YouTube</a>.</li><br/>
+  
+  <li> <b>NAIVE BAYES CLASSIFIER</b><br/>It is a probabilistic classification algorithm that is based on Bayes' theorem of conditional probability. The particular feature of this algorithm is that all the inputs independently affect the result. <a href="https://m.youtube.com/watch?v=M59h7CFUwPU">Watch on Youtube</a>. </li>
+</ol>
   
 </ol>
