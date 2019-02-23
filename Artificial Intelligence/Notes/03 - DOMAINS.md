@@ -38,17 +38,11 @@ For example, imagine you had to determine whether a fruit is rotten or fresh. He
 Beginners can start this [COURSE](https://in.udacity.com/course/intro-to-machine-learning--ud120-india) offered by Udacity for free
 
 # Deep Learning
-Deep learning, like Machine Learning, is also a method where the program is made to learn from historical data. The difference is that, unlike ML, DL is an <b>unsupervised learning</b> technique. This means that the dataset is <b>IS NOT LABELLED</b>. Your mind could be fu..uh..blown by this, as you must be wondering what use could a dataset without labels have.<br/><br/>
-What happens in Deep Learning is that the program tries to look for all sorts of patterns that the data can be fitted into. To put it more simply, it simply creates <b>groups</b> among the data based on common attributes. <b>Example:</b> suppose you had 1000 crayons. You can "group" the crayons in a number of ways:  
-<ul>
-  <li> According to colours (grouping all red, green and blue crayons separately)</li>
-  <li> According to thickness (putting them in different classes of thickness)</li>
-</ul>  
+Deep learning, like Machine Learning, is also a method where the program is made to learn from historical data. The difference is that instead of creating an equation based on patterns in datasets, deep learning algorithms structure data in the form of a connected graph. The connected graph actually tends to lead to the formation of a diverse network between the nodes (vertices). This network is called an Artificial Neural Network and is influenced by the neural network of the human brain. ANNs are used to draw conclusions about data in a way similar to how the human brain is anticipated to do so.
 
-etc. Deep learning does something similar. This method of grouping by common attributes is also called <b>clustering</b>.  
-<br/><br/>
+The neural network can also be considered to be a network of several individual decision trees. This data structure can be used in applications such as reasoning systems - where it's not just the results that matter but also the logic/reason behind it. 
 
-> Machine learning & Deep Learning are widely used in fields such as <a href="https://en.wikipedia.org/wiki/Data_analysis">Data Analytics</a>, <a href="https://en.wikipedia.org/wiki/Data_mining">Data Mining</a> and <a href="https://en.wikipedia.org/wiki/Data_science">Data Science</a>.
+<b>It should be noted that there are two kinds of learning mechanisms: supervised (from labeled dataset) and unsupervised (from unlabeled dataset).</b>
 
 <br/><br/>
 
