@@ -1,7 +1,8 @@
 # Projects 
 
 This file is written as a list of introductory tasks to be done. They will be added upon and links to implementation will be added as time passes. 
-If anyone has more projects add it to this list.
+If anyone has more projects add it to this list ### The best implementation will be referred to in another folder. 
+.
 > Note that some are available in our repos or the internet. You can copy but it would be great if you dont. Either way youll be asked some basic questions. Learn. There is no other way.
 
 
@@ -17,6 +18,7 @@ If anyone has more projects add it to this list.
 - [ ] Number recognition
 - [ ] Handwritten text detection
 - [ ] Article Similarity
+- [ ] Stock data. Just use linear/Multinomial regression and predict.
 
 # Medium/Advanced Projects 
 
@@ -28,4 +30,7 @@ If anyone has more projects add it to this list.
 > Do not try this yet
 - [ ] Get emails from the Gmail Api and perform sentiment analysis. 
 > You probably wont find a dataset. Use the twitter one and see how well it works. Or even better. Make your own.
+- [ ] Find out about search trees.
+- [ ] Work with stock data Time series.
 
+## Best of luck. May the Force Be With You.
