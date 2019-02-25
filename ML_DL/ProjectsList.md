@@ -20,7 +20,7 @@ If anyone has more projects add it to this list ### The best implementation will
 - [ ] Article Similarity
 - [ ] Stock data. Just use linear/Multinomial regression and predict.
 
-# Medium/Advanced Projects 
+## Medium/Advanced Projects 
 
 - [ ] Basic emotion (happy/sad/neutral) recogntion
 - [ ] Face detection. Go through all pictures in your folder. Make a new one called faces and *copy* all faces *only* there
