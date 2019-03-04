@@ -4,6 +4,16 @@ Starter pack for Machine Learning and related fields, an initiative by the membe
 # IMPORTANT
 > Upload your implementation in the Project Implementation folder with your name as the name of the folder. If the project name doesnt exist. Create it. With caution.
 
+### Side note
+> For you poor souls who are trying to make multiple folders and cursing luck. Make a file called proj.txt and add project names in every line. Then run the following. Setting the file path is your job.
+
+```
+cat proj.txt| while read line
+do
+mkdir ScrapingAuto/$line
+done
+```
+
 ## Artificial Intelligence
 This folder contains introductory notes and resources for people wanting to begin with learning AI. If you're not sure which specific domain to choose, <b><a href="Artificial Intelligence">start here</a></b>.
 
@@ -23,12 +33,3 @@ This folder contains some cheat sheets.
 Temporary storage until classfied accurately.
 
 
-### Side note
-> For you poor souls who are trying to make multiple folders and cursing luck. Make a file called proj.txt and add project names in every line. Then run the following. Setting the file path is your job.
-
-'''
-cat proj.txt| while read line
-do
-mkdir ScrapingAuto/$line
-done
-'''
