@@ -23,3 +23,6 @@ webpage -http://books.toscrape.com/catalogue/category/books/music_14/index.html
 i) Creats a python script to download all the bookcover images (thumbnails) shown on the given webpage.The name of the downloaded images should be their titles .
 
 ii) Create a python program where the user will select the sorting filter from these price low-high, price high to low , popularity based on star ratings. Our program should display the book titles in the requested order to the user.
+
+## Spider: Web Crawler (Spider.py)
+This is a basic web crawler which uses libraries to crawl a given webpage and can be modified to return the required data from any webpage. Here we have used the postfeed of [this website](https://pure-inlet-32646.herokuapp.com/). The code returns the headings of all the posts in the postfeed.  
