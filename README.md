@@ -22,3 +22,13 @@ This folder contains some cheat sheets.
 ## Unclassified:
 Temporary storage until classfied accurately.
 
+
+### Side note
+> For you poor souls who are trying to make multiple folders and cursing luck. Make a file called proj.txt and add project names in every line. Then run the following. Setting the file path is your job.
+
+'''
+cat proj.txt| while read line
+do
+mkdir ScrapingAuto/$line
+done
+'''
