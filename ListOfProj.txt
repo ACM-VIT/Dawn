@@ -1,0 +1,15 @@
+Count_no_of_coins
+Twitter_sentiment_Ana
+Thresholding
+Word_web
+Amazon_dataset
+No_recog
+Hadwritten_text
+Article_sim
+Stock_data
+Emotion
+Face_detect
+Gamil_senti
+Search_tree
+
+
