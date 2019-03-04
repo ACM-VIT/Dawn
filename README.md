@@ -1,7 +1,7 @@
 # Dawn
 Starter pack for Machine Learning and related fields, an initiative by the members of ACM-VIT student chapter. The repo contains learning concepts and insights on ML and AI
 
-#IMPORTANT
+# IMPORTANT
 > Upload your implementation in the Project Implementation folder with your name as the name of the folder. If the project name doesnt exist. Create it. With caution.
 
 # Artificial Intelligence
