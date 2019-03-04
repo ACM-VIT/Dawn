@@ -1,4 +1,4 @@
-Follow the instruction before making any commit
+# Follow the instruction before making any commit
 - Create a folder with your name
 - Put all your stuff in your folder only
 - Create subfolders in your folder of the following type 'Week<space><Number(0-9)>"
