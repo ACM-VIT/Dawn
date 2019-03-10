@@ -1,0 +1,1 @@
+Through this code I obtained the 200 most recent tweets of the POTUS and created a csv file of only the text of the tweets.
