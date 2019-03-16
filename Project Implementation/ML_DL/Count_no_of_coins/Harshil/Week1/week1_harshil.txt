@@ -1,0 +1,2 @@
+this is an object detection algorithm made using opencv
+this will use a colur filter and count the number of coins
