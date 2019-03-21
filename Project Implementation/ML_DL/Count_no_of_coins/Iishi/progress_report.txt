@@ -1,0 +1,18 @@
+Progress in ml
+week 1: 
+ • learned about git and git hub
+ • got familiarised with the functions
+ • sent pull requests for dsaplayground repo
+ • learned how to use numpy
+ • learnt syntax
+ • practiced to do basic mathematical problems using numpy
+week 2:
+ • learned how ro use pandas
+ • learnt syntax
+ • practiced random functions on a dataset
+ • self assigned the project of counting coins in an image
+ • tried to find out different methods
+ • one of them was to create a cnn (went abv my head)
+ • another way was to first segment coins in an image (using open cv in python)
+ • currently understanding how to implement it
+ • also was successful to to install the necessary modules in python
