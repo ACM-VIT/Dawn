@@ -1,26 +1,24 @@
 import pandas as pd
 import re
 from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem.lancaster import LancasterStemmer
-from nltk.stem.porter import PorterStemmer
-dataset=pd.read_csv("Twitter_data.csv")
+from nltk.stem import WordNetLemmatizer
+wordnet_lemmatizer = WordNetLemmatizer()
+dataset=pd.read_csv("train.csv")
 stop_words=set(stopwords.words('english'))
 def textmining(s,l):
-    word_tokens=word_tokenize(s)
-    p="?:!.,;"
-    fs=[l.stem(word).lower() for word in word_tokens if word.isalpha() and not word in stop_words or word in ["AT_USER","LINK"]]    
-    return fs
+    sentence_words= nltk.word_tokenize(sentence)
+    for word in sentence_words:
+        if word in p:
+            sentence_words.remove(word)
+        else:
+            word=wordnet_lemmatizer.lemmatize(word,pos="v")
+    return sentence_words
 fw1=[]
-fw2=[]
-wor=[]
 for i in dataset['Tweets']:
-    i=re.sub("https?://\S+","LINK",i)
-    i=re.sub("@\S+","AT_USER",i)
+    i=re.sub("https?://\S+","",i)
+    i=re.sub("@\S+","",i)
     wor.append(i)
-    fw1.append(textmining(i,PorterStemmer()))
-    fw2.append(textmining(i,LancasterStemmer()))
+    fw1.append(textmining(i))
 dataset['Words']=wor
-dataset['Feature Words (Porter)']=fw1
-dataset['Feature Words (Lancaster)']=fw2
-dataset.to_csv('Twitter_data.csv')
+dataset['Feature Words (Lemma)']=fw1
+dataset.to_csv('train.csv')
