@@ -1,0 +1,4 @@
+Took an airplane review dataset from kaggle
+took the first 600 tweets as my data set to work on
+Cleaned the data and stemmed it
+Cleaned tweets and stems have been added to the dataframe created within the program
