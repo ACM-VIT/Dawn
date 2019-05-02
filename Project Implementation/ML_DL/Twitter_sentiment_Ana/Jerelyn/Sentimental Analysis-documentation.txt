@@ -1,0 +1,12 @@
+TWITTER SENTIMENTAL ANALYSIS DOCUMENTATION
+1)Installed Anaconda for Windows
+2)Installed Tweepy (which is a python client for the official Twitter API)
+command: pip install tweepy
+3)Installed Textblob(for processing textual data)
+command: pip install textblob
+4)Downloaded corpora(a large and structured set of texts)
+command: python -m textblob.download_corpora
+5)In order to fetch the tweets through twitter API, 
+I registered for an app via [https://developer.twitter.com/en/apps]
+6)copied the access keys and tokens from the twitter dev console
+7) Pasted them onto the following code implemented in the sentiment.py file
